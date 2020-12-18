@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AndrewDaGuy/OurCord-Bot/issues"
   },
-  "homepage": "https://github.com/AndrewDaGuy/OurCord-Bot#readme"
+  "homepage": "https://github.com/AndrewDaGuy/OurCord-Bot#readme",
+  "dependencies": {
+    "ourcord": "^1.1.7"
+  }
 }
