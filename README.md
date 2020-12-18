@@ -2,6 +2,14 @@
 
 A bot made on the [ourcord](https://github.com/ourcord/ourcord) discord library.
 
+## Self-Hosting
+
+Requires node v12.18.4
+
+Remove `.example` from config.json.example, fill in any nessasarry things _(tokens, prefix, etc.)_
+Packages used:
+
+- [ourcord](https://github.com/ourcord/ourcord)
 
 ## License
 
