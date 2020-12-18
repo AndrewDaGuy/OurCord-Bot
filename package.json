@@ -1,0 +1,20 @@
+{
+  "name": "ourcord-bot",
+  "version": "1.0.0",
+  "description": "A bot made on the [ourcord](https://github.com/ourcord/ourcord) discord library.",
+  "main": "index.js",
+  "scripts": {
+    "Start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewDaGuy/OurCord-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewDaGuy/OurCord-Bot/issues"
+  },
+  "homepage": "https://github.com/AndrewDaGuy/OurCord-Bot#readme"
+}
