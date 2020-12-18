@@ -4,7 +4,7 @@
   "description": "A bot made on the [ourcord](https://github.com/ourcord/ourcord) discord library.",
   "main": "index.js",
   "scripts": {
-    "Start": "node ."
+    "start": "node ."
   },
   "repository": {
     "type": "git",
