@@ -18,4 +18,4 @@ Remove `.example` from config.json.example, fill in any nessasarry things _(toke
 
 Packages:
 
-- [ourcord](https://github.com/ourcord/ourcord)
+- [ourcord](https://github.com/ourcord/ourcord) **Deprecated**
