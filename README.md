@@ -2,7 +2,7 @@
 
 # OurCord-Bot
 
-A bot made on the [ourcord](https://github.com/ourcord/ourcord) discord library.
+A bot made on the [ourcord](https://github.com/ourcord/ourcord) discord library. *Due to Discord API changes this might not work*
 
 ## Features
 
