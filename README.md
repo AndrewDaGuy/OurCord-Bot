@@ -1,4 +1,4 @@
-> ⚠ The [orginial](https://github.com/ourpalace/ourcord/) project has been archived
+> ⚠ The [original](https://github.com/ourpalace/ourcord/) project has been archived
 
 # OurCord-Bot
 
