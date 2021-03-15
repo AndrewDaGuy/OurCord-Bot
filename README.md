@@ -1,10 +1,4 @@
-<!--
-TIP:
-This is almost like the discord.js lib, so that means
-COMMAND HANDLERS!!!!!!! or anuthing I guess...
-
-uhhhh why are you readniing this :/
--->
+> 
 
 # OurCord-Bot
 
